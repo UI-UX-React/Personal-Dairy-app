@@ -1,6 +1,6 @@
 Personal-Dairy-app
 
-An online personal ediary application, inwhich you can collect your memores in the form of words, photos anywhere and everywhere.
+An online personal ediary application, in which you can collect your memores in the form of words, photos anywhere and everywhere.
 
 Personal eDiary
 * Write what's happening in life, how was your day, make note of important things.
