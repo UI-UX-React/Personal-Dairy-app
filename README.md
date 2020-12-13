@@ -15,7 +15,10 @@ An online personal ediary web application, in which you can collect your memores
 * You can write your diary from anywhere [online], unlike paper diary you don't have to carry it with you.
 
 ## User Interface
-![Personal eDiary (1)](https://user-images.githubusercontent.com/45422560/102009730-b55af780-3d39-11eb-86a9-86f20e31d38f.jpg)
-![Personal eDiary (2)](https://user-images.githubusercontent.com/45422560/102009731-b724bb00-3d39-11eb-860a-52049705b540.jpg)
-![Personal eDiary (3)](https://user-images.githubusercontent.com/45422560/102009733-b7bd5180-3d39-11eb-9918-ddabc7f84beb.jpg)
-![Personal eDiary](https://user-images.githubusercontent.com/45422560/102009735-b7bd5180-3d39-11eb-8355-522a6d8c6101.jpg)
+
+![Personal eDiary](https://user-images.githubusercontent.com/45422560/102009826-695c8280-3d3a-11eb-8b18-9f72fcceaaca.jpg)
+![Personal eDiary (2)](https://user-images.githubusercontent.com/45422560/102009827-6eb9cd00-3d3a-11eb-9c5d-30613f4109e5.jpg)
+![Personal eDiary (3)](https://user-images.githubusercontent.com/45422560/102009831-75e0db00-3d3a-11eb-982f-0ac3a638ee10.jpg)
+
+
+
